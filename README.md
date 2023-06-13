@@ -4,28 +4,37 @@
 ## Please edit this README.md file based on your Capstone project idea.
 
 ## Project Title:
-- Write your Capstone Project title.
+- Will it raise my blood sugar?.
+- Matching clothes.
+- Scientifically classifiy animals.
 
 ## Group Members:
-- First Member
-- Second Member
-- Third Member
+- Albandari
+- Amjad
+- Najla
+- Fai
 
-## Objectives:
-- Write your main goal behind this project and the objectives that you need to achieve your goal.
+
+### Will it raise my blood sugar?
+
+An object detection model where you show breads/nuts and the model will inform the user wether it will raise ypur blood sugar or not.
+
+###  Matching Clothes.
+An object detection model to help people with color blindness whether their outfits are matching or not.
+
+### Scientifically Classifiy Animals.
+An image recognition model where you upload a picture of an animal and the output will be their biological classification and family for educational purposes.
 
 
 ## Dataset Description:
-- The number of rows:
-- The number of columns:
-- Columns Description (meaning):
-- The number of Missing values:
+Manually collecting images.
 
 ## Dataset Link:
 - Note: you have to choose a real dataset that needs to clean and preprocess.
 
 ## The expected (Machine learning / Deep Learning) Algorithms:
-- Write the algorithms that you will fit with your proposed solution.
+- CNN
+- YOLO
 
 ## Final Deliverables:
 - README.md file.
