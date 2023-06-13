@@ -6,7 +6,7 @@
 ## Project Title:
 - Will it raise my blood sugar?.
 - Matching clothes.
-- Scientifically classifiy animals.
+- Scientifically classifiy animals\plants.
 
 ## Group Members:
 - Albandari
@@ -22,8 +22,8 @@ An object detection model where you show breads/nuts and the model will inform t
 ###  Matching Clothes.
 An object detection model to help people with color blindness whether their outfits are matching or not.
 
-### Scientifically Classifiy Animals.
-An image recognition model where you upload a picture of an animal and the output will be their biological classification and family for educational purposes.
+### Scientifically Classifiy Animals\plants.
+An image recognition model where you upload a picture of an animal\plant and the output will be their biological classification and family for educational purposes.
 
 
 ## Dataset Description:
