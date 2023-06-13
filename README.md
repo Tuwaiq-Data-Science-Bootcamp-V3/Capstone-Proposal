@@ -17,7 +17,7 @@
 
 ### Will it raise my blood sugar?
 
-An object detection model where you show breads/nuts and the model will inform the user wether it will raise ypur blood sugar or not.
+An object detection model where you show breads/nuts and the model will inform the user wether it will raise your blood sugar or not.
 
 ###  Matching Clothes.
 An object detection model to help people with color blindness whether their outfits are matching or not.
@@ -33,7 +33,7 @@ Manually collecting images.
 - Note: you have to choose a real dataset that needs to clean and preprocess.
 
 ## The expected (Machine learning / Deep Learning) Algorithms:
-- CNN
+- R-CNN
 - YOLO
 
 ## Final Deliverables:
