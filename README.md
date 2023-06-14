@@ -22,7 +22,7 @@
 - Not yet determined.
 
 ## The expected (Machine learning / Deep Learning) Algorithms:
-- CNN, the rest will be determine later.
+- CNN, the rest will be determined later.
 
 ## Final Deliverables:
 - README.md file.
