@@ -4,28 +4,25 @@
 ## Please edit this README.md file based on your Capstone project idea.
 
 ## Project Title:
-- Write your Capstone Project title.
+- Attack detection and Avoidance
 
 ## Group Members:
-- First Member
-- Second Member
-- Third Member
+- Deemah Alkhudairi
+- Hamad Al Suliman
+- Norah Almuhaisen
+- Sarah Alyami
 
 ## Objectives:
-- Write your main goal behind this project and the objectives that you need to achieve your goal.
-
+- The overarching goal is to encompass the capability of detecting cyber attacks in real-time, utilizing advanced monitoring and analysis techniques. Additionally, the objective involves the development and implementation of an automated solution that can actively anticipate and prevent potential attacks. This proactive approach aims to mitigate risks and fortify the security infrastructure, ensuring the safeguarding of critical systems and data against malicious activities. By combining real-time detection and automated prevention measures, this objective aims to create a robust defense system that effectively avoids and mitigates cyber threats in a proactive and efficient manner.
 
 ## Dataset Description:
-- The number of rows:
-- The number of columns:
-- Columns Description (meaning):
-- The number of Missing values:
+- Not yet determined.
 
 ## Dataset Link:
-- Note: you have to choose a real dataset that needs to clean and preprocess.
+- Not yet determined.
 
 ## The expected (Machine learning / Deep Learning) Algorithms:
-- Write the algorithms that you will fit with your proposed solution.
+- CNN, the rest will be determine later.
 
 ## Final Deliverables:
 - README.md file.
