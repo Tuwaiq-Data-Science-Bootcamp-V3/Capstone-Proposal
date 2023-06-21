@@ -1,10 +1,7 @@
 # Capstone-Proposal
 
-
-## Please edit this README.md file based on your Capstone project idea.
-
 ## Project Title:
-- Write your Capstone Project title.
+- Emotion Detection.
 
 ## Group Members:
 - First Member
@@ -12,20 +9,22 @@
 - Third Member
 
 ## Objectives:
-- Write your main goal behind this project and the objectives that you need to achieve your goal.
-
+- To develop a system that can accurately detect emotions from both voice and facial expressions.
+  - Develop deep leanring models to classify emotions from voice and facial expressions.
+  - Evaluate the performance of the models on a held-out test set.
+  - Deploy the models in a production environment.
 
 ## Dataset Description:
-- The number of rows:
-- The number of columns:
-- Columns Description (meaning):
-- The number of Missing values:
+- The RAVDESS dataset consists of speech audio files produced as part of research on speech emotion recognition. The dataset includes 24 actors (12 male, 12 female), and       each actor recorded eight emotions (neutral, calm, happy, sad, angry, fearful, disgust, and surprised) in two intensities (normal and strong). The total number of audio      files in the dataset is 1,440.
 
 ## Dataset Link:
-- Note: you have to choose a real dataset that needs to clean and preprocess.
+- https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio
 
 ## The expected (Machine learning / Deep Learning) Algorithms:
-- Write the algorithms that you will fit with your proposed solution.
+
+- We train and evaluate the CLSTM model for speech emotion recognition and the pre-trained neural network for face emotion recognition. We achieve an accuracy of XX% on the    test set for speech emotion recognition and an accuracy of YY% on the test set for face emotion recognition. 
+- Overall, our project demonstrates the effectiveness of deep learning-based approaches for emotion recognition from speech and facial expressions. Our models can be     
+  deployed in real-world applications, such as sentiment analysis in customer service and emotion-based recommendation systems.
 
 ## Final Deliverables:
 - README.md file.
